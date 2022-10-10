@@ -6,7 +6,8 @@
         src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/barber-shop/shave-brush.jpg" 
 	/>
 </h1>
-
+<br />
+<br />
 <h2>Sobre o projeto</h2>
 
 <p>
